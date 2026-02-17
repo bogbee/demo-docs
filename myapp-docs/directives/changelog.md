@@ -3,6 +3,7 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi erat, sodales sed cursus at, condimentum at neque. Vivamus sollicitudin felis nec commodo semper. 
 asd 1
 asd 2
+asd 3
 
 
 ## Changelog import example import via directive

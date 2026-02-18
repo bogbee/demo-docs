@@ -26,6 +26,7 @@
 - [code-drawers](directives/code-drawer.md)
 - [embeds](directives/embeds.md)
 - [changelogs](directives/changelog.md)
+- [vertical-split](directives/vertical-split.md)
 - [partial](directives/partial.md)
 
 ## MDX Directives in page
